@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+  }
+  
+  #quiz-container {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 400px;
+    text-align: center;
+  }
+  
